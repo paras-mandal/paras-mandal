@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @paras-mandal
+- 🌱 I’m currently learning c.
